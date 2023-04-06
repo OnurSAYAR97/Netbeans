@@ -9,6 +9,7 @@ import java.util.Scanner;
  * @author onurs
  */
 public class TrafficLight { //
+    //
 
     /**
      * @param args the command line arguments
